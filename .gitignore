@@ -1,0 +1,14 @@
+﻿# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build/output
+dist/
+build/
+node_modules/
+
+# App-specific
+enrollments.json
+fontawesome-free-7.1.0-desktop/
